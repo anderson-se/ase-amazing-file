@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "https://ase-public.s3.sa-east-1.amazonaws.com/LoTR_characters.txt ./output/LoTR_characters.txt"
+    }
+  }
+}
